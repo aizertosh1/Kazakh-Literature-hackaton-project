@@ -1,31 +1,36 @@
-# Kazakh Literature - Hackathon AI Project
+# ✨ Kazakh-Literature-hackaton-project ✨
 
-This is a simple one-page website about **Kazakh Literature**, created for the Skillset AI Hackathon.
+## Kazakh Literature: A Quick Guide
 
-The website includes:
-- Introduction to Kazakh literature
-- Information about famous Kazakh poets and writers
-- Literature periods (epochs)
-- Main genres
-- Tips for studying literature
-
-## How to view the site
-
-You can visit the live website here:  
-**[https://aizertosh1.github.io/Kazakh-Literature-hackaton-ai/](https://aizertosh1.github.io/Kazakh-Literature-hackaton-ai/)**
-
-Or you can open the `index.html` file locally on your computer or mobile device.
-
-## How it was built
-
-- HTML5 for structure
-- CSS3 for styling
-- GitHub Pages for hosting
-
-## Author
-
-Created by [Your Name].
+A simple and elegant one-page website dedicated to **Kazakh Literature**, made for the Skillset AI Hackathon 2025.
 
 ---
 
-Thank you for visiting!
+### 📚 Website includes:
+- Key figures: Abai Qunanbaiuly, Mukhtar Auezov, Zhambyl Zhabayev
+- Literature periods: Oral era, Soviet era, Modern literature
+- Useful study tips
+
+---
+
+### 🌐 How to view
+Visit the live version:  
+👉 [Link](https://aizertosh1.github.io/Kazakh-Literature-hackaton-ai/)  
+or open the `index.html` file locally.
+
+---
+
+### 🛠️ Technologies
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+### 👩‍💻 Author
+Created by **[Your Name]**.
+
+---
+> Thank you for visiting!  
+> Enjoy exploring the rich world of Kazakh literature.
